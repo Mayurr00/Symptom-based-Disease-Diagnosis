@@ -2,7 +2,7 @@
 # Problem Statement 
 The lack of accessibility to medical professionals and resources in remote or underserved areas can make it difficult for patients to receive timely and accurate diagnoses for their health issues. To address this issue, we propose to develop a system-based disease diagnosis tool that utilizes machine learning algorithms to predict potential diseases based on the patient's symptoms. The tool will be designed using Python and the Tkinter GUI toolkit to provide a user-friendly interface for patients and healthcare professionals. The system will take in patient symptoms as input and provide a list of potential diseases with their probabilities as output, aiding healthcare professionals in diagnosing and treating patients in a timely and effective manner.
 
-#To clone and run this application, you'll need Git and Python 3.x installed on your computer. Follow these steps:
+# To clone and run this application, you'll need Git and Python 3.x installed on your computer. Follow these steps:
 Open your terminal/command prompt and navigate to the directory where you want to clone the repository.
 Run the following command to clone the repository:
 git clone https://github.com/<username>/<repository-name>.git
