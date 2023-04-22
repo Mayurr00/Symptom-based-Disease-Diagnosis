@@ -6,7 +6,7 @@ The lack of accessibility to medical professionals and resources in remote or un
 To clone and run this application, you'll need Git and Python 3.x installed on your computer. Follow these steps:
 1. Open your terminal/command prompt and navigate to the directory where you want to clone the repository.
 
-2. Run the following command to clone the repository:
+2. Run the following command to clone the repository:<br/>
 $ git clone https://github.com/<username>/<repository-name>.git
 Replace <username> with the GitHub username and <repository-name> with the name of the repository that you want to clone.
   
