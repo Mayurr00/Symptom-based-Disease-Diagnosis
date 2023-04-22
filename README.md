@@ -10,19 +10,19 @@ To clone and run this application, you'll need Git and Python 3.x installed on y
 $ git clone https://github.com/<username>/<repository-name>.git<br />
 Replace <username> with the GitHub username and <repository-name> with the name of the repository that you want to clone.
   
-3. Navigate to the cloned repository directory:
-$ cd <repository-name>
+3. Navigate to the cloned repository directory:<br />
+$ cd <repository-name><br />
 Replace <repository-name> with the name of the cloned repository.
   
-4. Install the required Python packages:
+4. Install the required Python packages:<br />
 $ pip install -r requirements.txt
   
-5. Run the script:
-$ python script.py
+5. Run the script:<br />
+$ python script.py<br />
 Replace script.py with the name of the Python script that you want to run.
 
 # Technology used
-The following technologies and tools were used in the development of this project:
+The following technologies and tools were used in the development of this project:<br />
 Python
 
 # Library used
